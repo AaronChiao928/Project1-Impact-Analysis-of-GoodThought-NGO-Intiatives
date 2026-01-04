@@ -26,5 +26,5 @@ File: `sql/02_top_regional_impact_assignments.sql`
 
 ## How to run
 Execute the SQL files in order in a PostgreSQL environment:
-1. `sql/01_highest_donation_assignments.sql`
-2. `sql/02_top_regional_impact_assignments.sql`
+1. `01_highest_donation_assignments.sql`
+2. `02_top_regional_impact_assignments.sql`
