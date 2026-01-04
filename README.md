@@ -7,6 +7,8 @@ This mini project explores how data-driven insights can support its humanitarian
 - **assignments**: project details (name, start/end dates, budget, region, impact_score)
 - **donations**: donation transactions linked to donors and assignments (amount, assignment_id, donor_id)
 - **donors**: donor metadata (including donor_type)
+- <img width="1670" height="900" alt="image" src="https://github.com/user-attachments/assets/621b5e09-ff1a-4ed4-a1e6-fea21b50c8f6" />
+
 
 ## Deliverables (SQL Views)
 
